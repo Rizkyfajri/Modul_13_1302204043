@@ -22,17 +22,17 @@ namespace Project_13
 
         }
 
-        private void txtPassword_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnSubmit_Click(object sender, EventArgs e)
         {
 
         }
 
         private void labelOutput_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtFilepath_TextChanged(object sender, EventArgs e)
         {
 
         }
